@@ -156,3 +156,18 @@ The performance of the proposed models was evaluated on the CICDDoS2019 dataset,
 ---
 
 The experimental results validate the effectiveness of using GNN-MLP for multi-class DDoS attack detection and ANN for binary detection, achieving state-of-the-art performance with minimal computational cost.
+
+---
+
+## 📥 Access to Source Code
+
+The source code for this project is hosted on Google Drive.
+
+> **Important**: The code access is restricted.  
+> To get access, please send an email request to:
+
+**📧 [iamaishani09@gmail.com]**
+
+Once approved, you will be granted access to the files.
+
+👉 [Request Access to the Code](https://drive.google.com/drive/folders/10KSkz0SdgzW-P8s9gpKonS-LJXR2eu-t?usp=drive_link)
