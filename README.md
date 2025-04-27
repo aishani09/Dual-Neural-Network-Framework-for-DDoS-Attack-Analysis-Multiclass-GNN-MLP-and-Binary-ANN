@@ -156,9 +156,3 @@ The performance of the proposed models was evaluated on the CICDDoS2019 dataset,
 ---
 
 The experimental results validate the effectiveness of using GNN-MLP for multi-class DDoS attack detection and ANN for binary detection, achieving state-of-the-art performance with minimal computational cost.
-
-
----
-
-The proposed system successfully captures both relational and feature-based information in network traffic to accurately detect and classify DDoS attacks with minimal computational cost.
-
